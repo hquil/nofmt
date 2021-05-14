@@ -1,7 +1,8 @@
 [package]
 name        = "nofmt"
-respository = "https://github.com/hquil/nofmt/"
 version     = "1.0.0"
+description = "This crate provides `nofmt::pls`, a macro that does its best at preventing a code block from being mangled."
+repository  = "https://github.com/hquil/nofmt/"
 authors     = ["HQUIL <h.quil@yandex.com>"]
 keywords    = ["formatting", "rustfmt"]
 license     = "MIT"
