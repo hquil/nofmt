@@ -1,0 +1,10 @@
+[package]
+name        = "nofmt"
+respository = "https://github.com/hquil/nofmt/"
+version     = "1.0.0"
+authors     = ["HQUIL <h.quil@yandex.com>"]
+keywords    = ["formatting", "rustfmt"]
+license     = "MIT"
+edition     = "2018"
+
+[dependencies]
