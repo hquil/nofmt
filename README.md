@@ -7,10 +7,10 @@ nofmt = "1.0"
 
 ```rust
 nofmt::pls! {
-	//                                      R      G      B      A
-	pub const MAIN_WINDOW_BG:  [f32; 4] = [0.187, 0.187, 0.187, 1.  ];
-	pub const DEBUG_WINDOW_BG: [f32; 4] = [0.   , 0.   , 0.   , 0.85];
-	pub const INPUT_BOX_BG:    [f32; 4] = [0.011, 0.022, 0.055, 1.  ];
+    //                                      R      G      B      A
+    pub const MAIN_WINDOW_BG:  [f32; 4] = [0.187, 0.187, 0.187, 1.  ];
+    pub const DEBUG_WINDOW_BG: [f32; 4] = [0.   , 0.   , 0.   , 0.85];
+    pub const INPUT_BOX_BG:    [f32; 4] = [0.011, 0.022, 0.055, 1.  ];
 }
 ```
 
